@@ -1,0 +1,75 @@
+.search-text-result-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 360px;
+  height: 800px;
+}
+.calapan {
+  margin: 0;
+  position: absolute;
+  top: 73px;
+  left: 40px;
+  font-size: inherit;
+  line-height: 100%;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  width: 231px;
+  height: 50px;
+}
+.calapan,
+.showing {
+  font-weight: 500;
+}
+.showing-3-results-container {
+  margin: 0;
+  position: absolute;
+  top: 149px;
+  left: 20px;
+  font-size: inherit;
+  line-height: 100%;
+  font-family: inherit;
+}
+.vuesaxoutlinefilter-search-icon2 {
+  position: absolute;
+  top: 25px;
+  left: 308px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.search1 {
+  margin: 0;
+  position: absolute;
+  top: 15px;
+  left: 20px;
+  font-size: var(--font-size-9xl);
+  line-height: 100%;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  width: 189px;
+  height: 52px;
+}
+.search-text-result {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 360px;
+  height: 1050px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--black);
+  font-family: var(--font-poppins);
+}
+.search-text-result-parent {
+  position: relative;
+  width: 100%;
+  height: 1050px;
+}

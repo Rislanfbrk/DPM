@@ -1,0 +1,421 @@
+.create-account {
+  margin: 0;
+  position: absolute;
+  top: 259px;
+  left: calc(50% - 95px);
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+}
+.vector-icon33,
+.vector-icon34,
+.vector-icon35,
+.vector-icon36 {
+  position: absolute;
+  height: 33.16%;
+  width: 25.32%;
+  top: 66.84%;
+  right: 0;
+  bottom: 0;
+  left: 74.68%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon34,
+.vector-icon35,
+.vector-icon36 {
+  height: 30.96%;
+  width: 13.87%;
+  top: 68.34%;
+  right: 3.94%;
+  bottom: 0.7%;
+  left: 82.19%;
+}
+.vector-icon35,
+.vector-icon36 {
+  height: 45.51%;
+  width: 34.77%;
+  top: 54.39%;
+  right: 65.23%;
+  bottom: 0.11%;
+  left: 0;
+}
+.vector-icon36 {
+  height: 42.51%;
+  width: 19.06%;
+  top: 56.47%;
+  right: 75.52%;
+  bottom: 1.02%;
+  left: 5.42%;
+}
+.vector-icon37,
+.vector-icon38,
+.vector-icon39,
+.vector-icon40,
+.vector-icon41,
+.vector-icon42 {
+  position: absolute;
+  height: 99.79%;
+  width: 41.97%;
+  top: 0;
+  right: 28.19%;
+  bottom: 0.21%;
+  left: 29.84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon38,
+.vector-icon39,
+.vector-icon40,
+.vector-icon41,
+.vector-icon42 {
+  width: 33.23%;
+  right: 36.94%;
+}
+.vector-icon39,
+.vector-icon40,
+.vector-icon41,
+.vector-icon42 {
+  height: 6.15%;
+  width: 3.68%;
+  top: 61.44%;
+  right: 37.81%;
+  bottom: 32.41%;
+  left: 58.52%;
+}
+.vector-icon40,
+.vector-icon41,
+.vector-icon42 {
+  height: 9.09%;
+  width: 2.06%;
+  top: 88.56%;
+  right: 31.68%;
+  bottom: 2.35%;
+  left: 66.26%;
+}
+.vector-icon41,
+.vector-icon42 {
+  height: 2.89%;
+  width: 4.42%;
+  top: 96.95%;
+  right: 31.35%;
+  bottom: 0.16%;
+  left: 64.23%;
+}
+.vector-icon42 {
+  height: 9.09%;
+  width: 2.06%;
+  top: 88.56%;
+  right: 24.65%;
+  bottom: 2.35%;
+  left: 73.29%;
+}
+.vector-icon43,
+.vector-icon44,
+.vector-icon45,
+.vector-icon46,
+.vector-icon47 {
+  position: absolute;
+  height: 2.89%;
+  width: 4.42%;
+  top: 96.95%;
+  right: 24.35%;
+  bottom: 0.16%;
+  left: 71.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon44,
+.vector-icon45,
+.vector-icon46,
+.vector-icon47 {
+  height: 26.04%;
+  width: 7.87%;
+  top: 40%;
+  right: 31.06%;
+  bottom: 33.96%;
+  left: 61.06%;
+}
+.vector-icon45,
+.vector-icon46,
+.vector-icon47 {
+  height: 26.74%;
+  width: 3.68%;
+  top: 42.78%;
+  right: 23.52%;
+  bottom: 30.48%;
+  left: 72.81%;
+}
+.vector-icon46,
+.vector-icon47 {
+  height: 9.47%;
+  width: 5.65%;
+  top: 26.47%;
+  right: 26.81%;
+  bottom: 64.06%;
+  left: 67.55%;
+}
+.vector-icon47 {
+  height: 26.31%;
+  width: 9.39%;
+  top: 37.65%;
+  right: 24.52%;
+  bottom: 36.04%;
+  left: 66.1%;
+}
+.vector-icon48,
+.vector-icon49,
+.vector-icon50,
+.vector-icon51,
+.vector-icon52 {
+  position: absolute;
+  height: 10.43%;
+  width: 4.97%;
+  top: 39.2%;
+  right: 31.13%;
+  bottom: 50.37%;
+  left: 63.9%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon49,
+.vector-icon50,
+.vector-icon51,
+.vector-icon52 {
+  height: 12.35%;
+  width: 4.06%;
+  top: 39.73%;
+  right: 23.55%;
+  bottom: 47.91%;
+  left: 72.39%;
+}
+.vector-icon50,
+.vector-icon51,
+.vector-icon52 {
+  height: 31.93%;
+  width: 10%;
+  top: 62.89%;
+  right: 24.35%;
+  bottom: 5.19%;
+  left: 65.65%;
+}
+.vector-icon51,
+.vector-icon52 {
+  height: 11.02%;
+  width: 6.61%;
+  top: 24.28%;
+  right: 26.42%;
+  bottom: 64.71%;
+  left: 66.97%;
+}
+.vector-icon52 {
+  height: 0.48%;
+  width: 85.13%;
+  top: 99.47%;
+  right: 3.32%;
+  bottom: 0.05%;
+  left: 11.55%;
+}
+.vector-icon53,
+.vector-icon54,
+.vector-icon55,
+.vector-icon56,
+.vector-icon57 {
+  position: absolute;
+  height: 58.24%;
+  width: 16.45%;
+  top: 20.64%;
+  right: 45.32%;
+  bottom: 21.12%;
+  left: 38.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon54,
+.vector-icon55,
+.vector-icon56,
+.vector-icon57 {
+  height: 0.37%;
+  top: 38.72%;
+  bottom: 60.91%;
+}
+.vector-icon55,
+.vector-icon56,
+.vector-icon57 {
+  top: 60.64%;
+  right: 45.26%;
+  bottom: 38.98%;
+  left: 38.29%;
+}
+.vector-icon56,
+.vector-icon57 {
+  height: 58.45%;
+  width: 0.23%;
+  top: 20.64%;
+  right: 56.39%;
+  bottom: 20.91%;
+  left: 43.39%;
+}
+.vector-icon57 {
+  right: 50.65%;
+  left: 49.13%;
+}
+.undraw-login-re-4vu2-2 {
+  position: absolute;
+  top: 52px;
+  left: calc(50% - 155px);
+  width: 310px;
+  height: 187px;
+  overflow: hidden;
+}
+.icoutline-email-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.email-address2 {
+  position: relative;
+}
+.icoutline-email-parent {
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  border: 2px solid var(--reg);
+  box-sizing: border-box;
+  width: 320px;
+  height: 58px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) var(--padding-xl);
+  gap: var(--gap-3xs);
+}
+.mdipassword-outline-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.password {
+  position: absolute;
+  top: 2.5px;
+  left: 34px;
+}
+.mdipassword-outline-parent {
+  position: relative;
+  width: 111px;
+  height: 26.5px;
+}
+.group-parent4 {
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  border: 2px solid var(--reg);
+  box-sizing: border-box;
+  width: 320px;
+  height: 58px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-6xs) var(--padding-xl);
+}
+.mdipassword-outline-group {
+  position: relative;
+  width: 180px;
+  height: 26.5px;
+}
+.terms-of-use {
+  text-decoration: underline;
+  color: var(--blue);
+}
+.by-registering-you-container {
+  flex: 1;
+  position: relative;
+  line-height: 26px;
+}
+.erorr-signup-parent,
+.material-symbolscheck-box-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.material-symbolscheck-box-parent {
+  border-radius: var(--br-3xs);
+  width: 320px;
+  flex-direction: row;
+  padding: var(--padding-3xs) 0;
+  box-sizing: border-box;
+}
+.erorr-signup-parent {
+  position: absolute;
+  top: 314px;
+  left: calc(50% - 160px);
+  flex-direction: column;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--reg);
+  font-family: var(--font-poppins);
+}
+.register {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.register-wrapper {
+  position: absolute;
+  top: 721px;
+  left: 20px;
+  border-radius: var(--br-3xs);
+  background-color: var(--blue);
+  width: 320px;
+  height: 58px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xs) var(--padding-xl);
+  box-sizing: border-box;
+  cursor: pointer;
+  color: var(--white);
+}
+.already-have-an {
+  position: absolute;
+  top: 670px;
+  left: calc(50% - 52px);
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--blue);
+  cursor: pointer;
+}
+.create-account-user {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 360px;
+  height: 800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--black);
+  font-family: var(--font-poppins);
+}
+.create-account-user-parent {
+  position: relative;
+  width: 100%;
+  height: 800px;
+}

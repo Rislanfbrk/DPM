@@ -1,0 +1,42 @@
+.image-9 {
+  position: absolute;
+  top: calc(50% - 183px);
+  left: calc(50% - 110px);
+  width: 220px;
+  height: 212px;
+  background-image: url(/public/image-9@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.please-wait {
+  margin: 0;
+}
+.scanning-the-vicinity {
+  margin: 0;
+  font-size: var(--font-size-9xl);
+}
+.please-wait-scanning-container {
+  position: absolute;
+  top: 429px;
+  left: calc(50% - 145px);
+  line-height: 100%;
+}
+.scan-loading {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 360px;
+  height: 800px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--headline-h5-size);
+  color: var(--black);
+  font-family: var(--font-poppins);
+}
+.scan-loading-parent {
+  position: relative;
+  width: 100%;
+  height: 800px;
+}

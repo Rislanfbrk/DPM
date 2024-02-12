@@ -1,0 +1,96 @@
+.near-you {
+  margin: 0;
+  position: absolute;
+  top: 157px;
+  left: 20px;
+  font-size: inherit;
+  line-height: 100%;
+  font-weight: 600;
+  font-family: inherit;
+}
+.vuesaxoutlinesearch-normal-icon5 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.search-group {
+  position: absolute;
+  height: 6.27%;
+  width: 88.89%;
+  top: 10.28%;
+  right: 5.56%;
+  bottom: 83.46%;
+  left: 5.56%;
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 13px 0 14px;
+  box-sizing: border-box;
+  gap: 212px;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-200);
+}
+.your-location {
+  position: relative;
+}
+.maharatu-pekanbaru {
+  position: relative;
+  font-weight: 600;
+}
+.vuesaxoutlinearrow-swap-hori-icon1 {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  object-fit: cover;
+}
+.maharatu-pekanbaru-parent {
+  width: 303px;
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 64px;
+  margin-top: -3px;
+  font-size: var(--headline-h5-size);
+}
+.frame,
+.home2 {
+  overflow: hidden;
+}
+.frame {
+  position: absolute;
+  top: 13px;
+  left: 20px;
+  width: 303px;
+  height: 46px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 12.8px;
+}
+.home2 {
+  position: relative;
+  background: linear-gradient(#e8e8e8, #e8e8e8), #fff;
+  width: 360px;
+  height: 798px;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--reg);
+  font-family: var(--font-poppins);
+}
+.home-parent {
+  position: relative;
+  width: 100%;
+  height: 799px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

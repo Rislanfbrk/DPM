@@ -1,0 +1,306 @@
+.image-11,
+.listing-details-child {
+  position: absolute;
+  left: 0;
+  width: 360px;
+}
+.image-11 {
+  top: 0;
+  height: 300px;
+  background-image: url(/public/image-11@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.listing-details-child {
+  top: 284px;
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  background-color: var(--white);
+  height: 825px;
+}
+.other-details {
+  position: absolute;
+  top: 835px;
+  left: 20px;
+  line-height: 100%;
+  font-weight: 500;
+}
+.parcon-apartment1,
+.php-3000month1 {
+  position: absolute;
+  top: 30.84%;
+  left: 5.56%;
+  line-height: 100%;
+  color: var(--reg);
+}
+.parcon-apartment1 {
+  top: 27.86%;
+  font-size: var(--font-size-7xl);
+  font-weight: 500;
+}
+.vuesaxbulkarrow-square-left-icon6 {
+  position: absolute;
+  top: 25px;
+  left: 21px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.vuesaxbulkarchive-tick-icon2 {
+  position: absolute;
+  top: 22px;
+  left: 300px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.group-child19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-dodgerblue-100);
+  width: 155px;
+  height: 43px;
+}
+.virtual-tour1 {
+  position: absolute;
+  top: calc(50% - 16.5px);
+  left: calc(50% - 67.5px);
+  font-size: var(--font-size-base);
+  line-height: 100%;
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--white);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 135px;
+  height: 32px;
+}
+.rectangle-parent22 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 225px;
+  left: 185px;
+  width: 155px;
+  height: 43px;
+}
+.group-child20 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 120px;
+  height: 43px;
+}
+.kms-away2 {
+  position: absolute;
+  top: calc(50% - 12.5px);
+  left: calc(50% - 67.5px);
+  line-height: 100%;
+}
+.rectangle-parent23 {
+  position: absolute;
+  top: 225px;
+  left: 20px;
+  width: 137px;
+  height: 43px;
+  font-size: var(--font-size-5xl);
+  color: var(--white);
+}
+.vuesaxoutlinestar-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.div3 {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: 29px;
+  line-height: 100%;
+}
+.vuesaxoutlinestar-group {
+  position: absolute;
+  top: 368px;
+  left: 20px;
+  width: 58px;
+  height: 24px;
+}
+.san-vicente-central1,
+.see-more,
+.we-have-3 {
+  position: absolute;
+  line-height: 100%;
+  color: var(--color-dimgray-100);
+}
+.san-vicente-central1 {
+  top: 568px;
+  left: 22px;
+  display: flex;
+  align-items: center;
+  width: 320px;
+}
+.see-more,
+.we-have-3 {
+  top: 659px;
+  left: 21px;
+}
+.see-more {
+  top: 706px;
+  left: 275px;
+  font-size: var(--font-size-sm);
+}
+.address,
+.description,
+.gallery {
+  position: absolute;
+  line-height: 100%;
+  font-weight: 500;
+}
+.address {
+  top: 538px;
+  left: 21px;
+  display: flex;
+  align-items: center;
+  width: 200px;
+  height: 28px;
+}
+.description,
+.gallery {
+  top: 631px;
+  left: 20px;
+}
+.gallery {
+  top: 702px;
+}
+.image-2-icon {
+  position: relative;
+  width: 100px;
+  height: 75px;
+  object-fit: cover;
+}
+.image-2-parent {
+  position: absolute;
+  top: 741px;
+  left: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.avatar-icon4 {
+  position: relative;
+  border-radius: var(--br-31xl);
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.vuesaxbulkmessages-icon2 {
+  position: absolute;
+  top: calc(50% - 18px);
+  left: 240px;
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+}
+.lucy-heartfilia1,
+.owner1 {
+  position: absolute;
+  top: calc(50% - 24px);
+  left: 0;
+  line-height: 100%;
+  display: flex;
+  align-items: center;
+  width: 155px;
+  height: 28px;
+}
+.owner1 {
+  top: calc(50% - 4px);
+  font-size: var(--font-size-sm);
+}
+.vuesaxbulkmessages-group {
+  position: relative;
+  width: 275px;
+  height: 48px;
+}
+.avatar-group {
+  position: absolute;
+  top: 407px;
+  left: calc(50% - 162px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.group-child21 {
+  border: 0;
+  outline: 0;
+  background-color: var(--blue);
+  position: absolute;
+  top: 28px;
+  left: calc(50% - 19.5px);
+  border-radius: var(--br-980xl);
+  width: 38px;
+  height: 5px;
+}
+.details1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 100%;
+  font-weight: 600;
+}
+.rectangle-parent24 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 139px);
+  width: 85px;
+  height: 33px;
+}
+.reviews1 {
+  position: absolute;
+  top: 0;
+  left: 178px;
+  line-height: 100%;
+  font-weight: 600;
+  color: var(--reg);
+  cursor: pointer;
+}
+.group-parent3 {
+  position: absolute;
+  top: 482px;
+  left: calc(50% - 139px);
+  width: 278px;
+  height: 33px;
+  font-size: var(--font-size-5xl);
+  color: var(--blue);
+}
+.listing-details {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 360px;
+  height: 1109px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--headline-h5-size);
+  color: var(--black);
+  font-family: var(--font-poppins);
+}
+.listing-details-parent {
+  position: relative;
+  width: 100%;
+  height: 1109px;
+}

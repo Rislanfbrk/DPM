@@ -1,0 +1,129 @@
+.image-111 {
+  position: absolute;
+  top: -30px;
+  left: 0;
+  width: 441px;
+  height: 791px;
+  background-image: url(/public/image-111@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.frame-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+}
+.vuesaxoutlinesearch-normal-icon4 {
+  position: absolute;
+  height: 48%;
+  width: 7.5%;
+  top: 26%;
+  right: 4.06%;
+  bottom: 26%;
+  left: 88.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.vuesaxoutlinedocument-filter-icon1 {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: 274px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.search4 {
+  position: absolute;
+  top: 13px;
+  left: 14px;
+}
+.rectangle-parent32 {
+  position: absolute;
+  top: 30px;
+  left: calc(50% - 158px);
+  width: 320px;
+  height: 50px;
+}
+.group-child29,
+.group-child30 {
+  position: absolute;
+  border-radius: 50%;
+}
+.group-child29 {
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 123, 255, 0.39);
+  width: 280px;
+  height: 280px;
+}
+.group-child30 {
+  top: calc(50% - 10px);
+  left: calc(50% - 10px);
+  background-color: red;
+  width: 20px;
+  height: 20px;
+}
+.ellipse-parent,
+.group-child31 {
+  position: absolute;
+  top: 221px;
+  left: 33px;
+  width: 280px;
+  height: 280px;
+}
+.group-child31 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--blue);
+  width: 150px;
+  height: 47px;
+}
+.scan-area {
+  margin: 0;
+  position: absolute;
+  top: calc(50% - 10.5px);
+  left: calc(50% - 48px);
+  font-size: inherit;
+  line-height: 100%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.rectangle-parent33 {
+  position: absolute;
+  top: 650px;
+  left: 105px;
+  width: 150px;
+  height: 47px;
+  cursor: pointer;
+  font-size: var(--headline-h5-size);
+  color: var(--white);
+}
+.map {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 360px;
+  height: 800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-poppins);
+}
+.map-parent {
+  position: relative;
+  width: 100%;
+  height: 800px;
+}

@@ -1,0 +1,33 @@
+.scan-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 360px;
+  height: 802px;
+}
+.heres-what-weve {
+  position: absolute;
+  top: 113px;
+  left: 20px;
+  line-height: 100%;
+  font-weight: 600;
+}
+.scan {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 360px;
+  height: 800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 23px;
+  color: var(--black);
+  font-family: var(--font-poppins);
+}
+.scan-parent {
+  position: relative;
+  width: 100%;
+  height: 800px;
+}

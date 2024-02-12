@@ -1,0 +1,59 @@
+.search-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 360px;
+  height: 1444px;
+}
+.calapan1 {
+  position: absolute;
+  top: 73px;
+  left: 40px;
+  line-height: 100%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 231px;
+  height: 50px;
+}
+.vuesaxoutlinefilter-search-icon3 {
+  position: absolute;
+  top: 25px;
+  left: 308px;
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+}
+.search3 {
+  margin: 0;
+  position: absolute;
+  top: 15px;
+  left: 20px;
+  font-size: var(--font-size-9xl);
+  line-height: 100%;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  width: 189px;
+  height: 52px;
+}
+.search2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 360px;
+  height: 1444px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--black);
+  font-family: var(--font-poppins);
+}
+.search-parent {
+  position: relative;
+  width: 100%;
+  height: 1444px;
+}

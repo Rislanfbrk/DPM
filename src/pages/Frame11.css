@@ -1,0 +1,237 @@
+.vuesaxbulkarrow-square-left-icon7 {
+  position: absolute;
+  top: 25px;
+  left: 21px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.edit-profile1 {
+  margin: 0;
+  position: absolute;
+  top: 31px;
+  left: 74px;
+  font-size: var(--font-size-9xl);
+  line-height: 100%;
+  font-weight: 600;
+  font-family: inherit;
+  color: var(--reg);
+}
+.edit-profile-child {
+  position: absolute;
+  top: 93px;
+  left: 120px;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+}
+.first-name1,
+.personal-details1 {
+  position: absolute;
+  left: 21px;
+  line-height: 100%;
+}
+.personal-details1 {
+  top: 241px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+}
+.first-name1 {
+  top: 280px;
+  font-weight: 500;
+}
+.address1,
+.email-address1,
+.last-name1,
+.mobile-number1 {
+  position: absolute;
+  top: 368px;
+  left: 20px;
+  line-height: 100%;
+  font-weight: 500;
+}
+.address1,
+.email-address1,
+.last-name1 {
+  top: 456px;
+}
+.address1,
+.last-name1 {
+  top: 544px;
+}
+.last-name1 {
+  top: 280px;
+  left: 190px;
+}
+.group-child22 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gainsboro-500);
+  width: 150px;
+  height: 40px;
+}
+.datul1 {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: 7px;
+  font-size: var(--font-size-base);
+  line-height: 100%;
+  font-family: var(--font-poppins);
+  color: var(--black);
+  text-align: left;
+}
+.rectangle-parent25 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 311px;
+  left: 190px;
+  width: 150px;
+  height: 40px;
+}
+.group-child23 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gainsboro-500);
+}
+.group-child23,
+.rectangle-parent26,
+.rectangle-parent27 {
+  position: absolute;
+  width: 141px;
+  height: 40px;
+}
+.rectangle-parent26 {
+  top: 311px;
+  left: 20px;
+  font-size: var(--font-size-base);
+}
+.rectangle-parent27 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 399px;
+  left: 21px;
+}
+.group-child25,
+.rectangle-parent28 {
+  position: absolute;
+  width: 233px;
+  height: 40px;
+}
+.group-child25 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gainsboro-500);
+}
+.rectangle-parent28 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 487px;
+  left: 21px;
+}
+.group-child26 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gainsboro-500);
+  width: 265px;
+  height: 40px;
+}
+.marpoyan-pekanbaru {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: 7px;
+  line-height: 100%;
+}
+.rectangle-parent29 {
+  position: absolute;
+  top: 581px;
+  left: 20px;
+  width: 265px;
+  height: 40px;
+  font-size: var(--font-size-base);
+}
+.group-child27 {
+  position: absolute;
+  top: 0;
+  left: 169px;
+  border-radius: var(--br-3xs);
+  background-color: var(--blue);
+  width: 150px;
+  height: 47px;
+  cursor: pointer;
+}
+.save {
+  position: absolute;
+  top: calc(50% - 10.5px);
+  left: calc(50% + 62.5px);
+  line-height: 100%;
+}
+.group-child28 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightgray);
+  width: 150px;
+  height: 47px;
+}
+.cancel1 {
+  position: absolute;
+  top: calc(50% - 10.5px);
+  left: calc(50% - 36px);
+  font-size: var(--headline-h5-size);
+  line-height: 100%;
+  font-family: var(--font-poppins);
+  color: var(--reg);
+  text-align: center;
+}
+.rectangle-parent31 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 150px;
+  height: 47px;
+}
+.edit-profile,
+.rectangle-parent30 {
+  position: absolute;
+  top: 735px;
+  left: 21px;
+  width: 319px;
+  height: 47px;
+  color: var(--white);
+}
+.edit-profile {
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 360px;
+  height: 800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--headline-h5-size);
+  color: var(--black);
+  font-family: var(--font-poppins);
+}
+.edit-profile-parent {
+  position: relative;
+  width: 100%;
+  height: 800px;
+}

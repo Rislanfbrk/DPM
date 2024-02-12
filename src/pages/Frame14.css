@@ -1,0 +1,32 @@
+.notifications-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 360px;
+  height: 799px;
+}
+.notif-item-parent {
+  position: absolute;
+  top: 101px;
+  left: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.notifications2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 360px;
+  height: 800px;
+  overflow: hidden;
+}
+.notifications-parent {
+  position: relative;
+  width: 100%;
+  height: 800px;
+}
