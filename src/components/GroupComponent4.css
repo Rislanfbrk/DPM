@@ -1,0 +1,49 @@
+.instance-child10,
+.rectangle-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+.instance-child10 {
+  width: 100%;
+  right: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--white);
+}
+.rectangle-icon {
+  width: 28.57%;
+  right: 71.43%;
+  border-radius: var(--br-7xs) 0 0 var(--br-7xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.price8,
+.title9 {
+  position: absolute;
+  left: 32.14%;
+  line-height: 100%;
+}
+.title9 {
+  top: 10%;
+  font-weight: 500;
+}
+.price8 {
+  top: 54.29%;
+  font-size: var(--font-size-mini);
+}
+.rectangle-parent43 {
+  position: absolute;
+  top: 88px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  width: 280px;
+  height: 70px;
+  text-align: left;
+  font-size: var(--headline-h5-size);
+  color: var(--reg);
+  font-family: var(--font-poppins);
+}

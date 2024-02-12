@@ -1,0 +1,21 @@
+.frame-inner {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-inner,
+.slice-div {
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
+.text-inclusions-parent {
+  position: absolute;
+  top: 870px;
+  left: 20px;
+  width: 261px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}

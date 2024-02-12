@@ -1,0 +1,28 @@
+.instance-parent6 {
+  position: relative;
+  width: 280px;
+  height: 158px;
+}
+.group-parent12 {
+  position: absolute;
+  top: calc(50% - 79px);
+  left: calc(50% - 180px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl);
+  gap: var(--gap-xl);
+}
+.new {
+  position: relative;
+  width: 360px;
+  height: 158px;
+  overflow: hidden;
+  flex-shrink: 0;
+  margin-top: -17px;
+  text-align: left;
+  font-size: var(--headline-h5-size);
+  color: var(--reg);
+  font-family: var(--font-poppins);
+}

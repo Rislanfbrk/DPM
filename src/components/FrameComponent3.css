@@ -1,0 +1,12 @@
+.instance-parent4 {
+  position: absolute;
+  top: 14px;
+  left: calc(50% - 157px);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs) var(--padding-3xs);
+  gap: var(--gap-xl);
+}

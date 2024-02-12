@@ -1,0 +1,114 @@
+.background {
+  border-radius: var(--br-base);
+  background-color: var(--color-gainsboro-300);
+  box-shadow: 0 1px 8px rgba(110, 110, 110, 0.1);
+}
+.background,
+.card {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.star,
+.star1 {
+  position: absolute;
+  top: calc(50% - 6px);
+}
+.star {
+  width: 17.95%;
+  left: 0;
+  letter-spacing: 0.01px;
+  display: inline-block;
+}
+.star1 {
+  left: 20.48%;
+}
+.star1,
+.star2,
+.star3 {
+  width: 17.95%;
+  letter-spacing: 0.01px;
+  display: inline-block;
+}
+.star2 {
+  position: absolute;
+  top: calc(50% - 6px);
+  left: 40.97%;
+}
+.star3 {
+  left: 61.56%;
+}
+.rating1,
+.star-half,
+.star3 {
+  position: absolute;
+  top: calc(50% - 6px);
+}
+.star-half {
+  width: 17.95%;
+  left: 82.05%;
+  letter-spacing: 0.01px;
+  display: inline-block;
+}
+.rating1 {
+  width: 28.38%;
+  right: 60.69%;
+  left: 10.94%;
+  height: 12px;
+}
+.large,
+.small {
+  position: absolute;
+  width: calc(100% - 69.8px);
+  top: calc(50% + 0.5px);
+  left: 69.8px;
+  line-height: 20px;
+  display: inline-block;
+}
+.large {
+  top: calc(50% - 20.5px);
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--reg);
+}
+.uiuserpicture-icon {
+  position: absolute;
+  height: 97.56%;
+  width: 18.59%;
+  top: 0;
+  right: 81.41%;
+  bottom: 2.44%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.userdoubleline {
+  position: absolute;
+  width: calc(100% - 69.8px);
+  top: calc(50% - 59px);
+  right: 34.8px;
+  left: 35px;
+  height: 41px;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-poppins);
+}
+.review {
+  position: absolute;
+  height: 22.5%;
+  width: 88.89%;
+  top: 67.88%;
+  right: 6.11%;
+  bottom: 9.63%;
+  left: 5%;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-gold);
+  font-family: var(--font-font-awesome-5-pro);
+}

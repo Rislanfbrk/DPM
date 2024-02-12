@@ -1,0 +1,25 @@
+.notifications {
+  position: relative;
+}
+.notifications-wrapper {
+  position: absolute;
+  top: 0;
+  left: -10px;
+  border-radius: var(--br-3xs);
+  background-color: var(--blue);
+  width: 157px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.property-1variant2 {
+  width: 137px;
+  height: 48px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--white);
+  font-family: var(--font-poppins);
+}

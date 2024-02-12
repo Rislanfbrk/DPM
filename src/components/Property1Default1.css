@@ -1,0 +1,13 @@
+.notifications1 {
+  position: absolute;
+  top: calc(50% - 13.5px);
+  left: calc(50% - 56.5px);
+}
+.property-1default1 {
+  width: 137px;
+  height: 53px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--reg);
+  font-family: var(--font-poppins);
+}

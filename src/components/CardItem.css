@@ -1,0 +1,104 @@
+.bg-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.title1 {
+  top: 0;
+  left: 0;
+  line-height: 100%;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.price,
+.title,
+.title1 {
+  position: absolute;
+}
+.price {
+  height: 37.78%;
+  width: 100%;
+  top: 62.22%;
+  left: 0;
+  font-size: var(--font-size-sm);
+  line-height: 100%;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+}
+.title {
+  height: 19.15%;
+  width: 81.88%;
+  top: 62.98%;
+  right: 9.38%;
+  bottom: 17.87%;
+  left: 8.75%;
+  font-size: var(--headline-h5-size);
+}
+.juan-dela-cruz {
+  position: absolute;
+  top: 9.91%;
+  left: 18.06%;
+  font-size: var(--font-size-lg);
+  text-transform: capitalize;
+}
+.avatar-icon {
+  position: absolute;
+  height: 13.62%;
+  width: 10%;
+  top: 8.51%;
+  right: 84.06%;
+  bottom: 77.87%;
+  left: 5.94%;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.kms-away,
+.rating {
+  position: absolute;
+  line-height: 100%;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.rating {
+  top: 84.26%;
+  left: 15%;
+  color: var(--grey);
+}
+.kms-away {
+  top: 11.49%;
+  left: 71.88%;
+  text-align: right;
+}
+.vuesaxbulkmagic-star-icon3 {
+  position: absolute;
+  height: 7.66%;
+  width: 5.63%;
+  top: 83.4%;
+  right: 85.63%;
+  bottom: 8.94%;
+  left: 8.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.card-item {
+  width: 320px;
+  height: 235px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--white);
+  font-family: var(--font-poppins);
+}

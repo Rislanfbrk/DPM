@@ -1,0 +1,27 @@
+.vuesaxbulkhome-2-icon1 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.home {
+  position: relative;
+  line-height: 100%;
+  font-weight: 500;
+}
+.property-1active-child {
+  position: relative;
+  width: 50.4px;
+  height: 5px;
+}
+.property-1active {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-10xs);
+  gap: var(--gap-4xs);
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--blue);
+  font-family: var(--font-poppins);
+}

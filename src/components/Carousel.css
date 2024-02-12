@@ -1,0 +1,334 @@
+.vuesaxbulkmagic-star-icon5 {
+  position: absolute;
+  height: 100%;
+  width: 48%;
+  top: 0;
+  right: 52%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rate {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: 52%;
+  line-height: 100%;
+  font-weight: 500;
+}
+.vuesaxbulkmagic-star-group {
+  position: relative;
+  width: 50px;
+  height: 24px;
+}
+.vuesaxbulkarchive-tick-icon3 {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.frame4 {
+  width: 275px;
+  height: 40px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-166xl);
+}
+.div5 {
+  position: absolute;
+  top: 0;
+  left: 11.21%;
+  line-height: 100%;
+  font-weight: 500;
+}
+.currency-php-icon {
+  position: absolute;
+  height: 87.5%;
+  width: 12.07%;
+  top: 6.25%;
+  right: 87.93%;
+  bottom: 6.25%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.frame3,
+.frame5 {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame5 {
+  position: relative;
+  width: 116px;
+  height: 16px;
+  color: var(--white);
+}
+.frame3 {
+  width: 275px;
+  height: 152px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-77xl);
+}
+.kms-away3 {
+  position: absolute;
+  top: 73.08%;
+  left: 0;
+  line-height: 100%;
+  font-weight: 500;
+}
+.frame6 {
+  position: relative;
+  width: 279px;
+  height: 52px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: var(--font-size-sm);
+  color: var(--white);
+}
+.frame-parent1 {
+  border-radius: var(--br-3xs);
+  width: 300px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-xs) var(--padding-4xs) var(--padding-9xl)
+    var(--padding-xs);
+  box-sizing: border-box;
+  gap: var(--gap-7xs);
+  background-image: url(/public/frame-33@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  cursor: pointer;
+}
+.vuesaxbulkarchive-add-icon,
+.vuesaxbulkmagic-star-icon6 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.vuesaxbulkarchive-add-icon {
+  width: 14.55%;
+  right: 0;
+  left: 85.45%;
+  cursor: pointer;
+}
+.vuesaxbulkmagic-star-icon6 {
+  width: 64.86%;
+  right: 35.14%;
+  left: 0;
+}
+.rate1 {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: 70.27%;
+  line-height: 100%;
+  font-weight: 500;
+}
+.vuesaxbulkmagic-star-container {
+  position: absolute;
+  top: 8px;
+  left: 0;
+  width: 37px;
+  height: 24px;
+}
+.div6,
+.frame8 {
+  position: absolute;
+  top: 0;
+}
+.frame8 {
+  left: 0;
+  width: 275px;
+  height: 40px;
+  overflow: hidden;
+}
+.div6 {
+  left: 20.31%;
+  line-height: 100%;
+  font-weight: 500;
+}
+.currency-php-icon1 {
+  height: 87.5%;
+  width: 21.88%;
+  top: 6.25%;
+  right: 78.13%;
+  bottom: 6.25%;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.currency-php-icon1,
+.frame10,
+.frame7,
+.frame9 {
+  position: absolute;
+  overflow: hidden;
+}
+.frame9 {
+  top: 136px;
+  left: 0;
+  width: 64px;
+  height: 16px;
+  color: var(--white);
+}
+.frame10,
+.frame7 {
+  top: 12px;
+  left: 12px;
+  width: 275px;
+  height: 152px;
+}
+.frame10 {
+  top: 170px;
+  width: 176px;
+  height: 52px;
+  font-size: var(--font-size-sm);
+  color: var(--white);
+}
+.frame-parent2 {
+  position: relative;
+  border-radius: var(--br-3xs);
+  width: 300px;
+  height: 250px;
+  background-image: url(/public/frame-31@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.vuesaxbulkarchive-add-icon1,
+.vuesaxbulkmagic-star-icon7 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vuesaxbulkarchive-add-icon1 {
+  width: 14.55%;
+  right: 0;
+  left: 85.45%;
+  cursor: pointer;
+}
+.vuesaxbulkmagic-star-icon7 {
+  width: 66.67%;
+  right: 33.33%;
+  left: 0;
+}
+.rate2 {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: 72.22%;
+  line-height: 100%;
+  font-weight: 500;
+}
+.vuesaxbulkmagic-star-parent1 {
+  position: absolute;
+  top: 8px;
+  left: 0;
+  width: 36px;
+  height: 24px;
+}
+.div7 {
+  position: absolute;
+  top: 0;
+  left: 11.3%;
+  line-height: 100%;
+  font-weight: 500;
+}
+.currency-php-icon2 {
+  height: 87.5%;
+  width: 12.17%;
+  top: 6.25%;
+  right: 87.83%;
+  bottom: 6.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.currency-php-icon2,
+.dreamplace,
+.frame13 {
+  position: absolute;
+  left: 0;
+}
+.frame13 {
+  top: 136px;
+  width: 115px;
+  height: 16px;
+  overflow: hidden;
+  color: var(--white);
+}
+.dreamplace {
+  margin: 0;
+  top: 0;
+  font-size: var(--font-size-11xl);
+  line-height: 100%;
+  font-weight: 500;
+  font-family: inherit;
+}
+.frame14 {
+  position: absolute;
+  top: 170px;
+  left: 12px;
+  width: 186px;
+  height: 52px;
+  overflow: hidden;
+  font-size: var(--font-size-sm);
+  color: var(--white);
+}
+.frame-parent3 {
+  position: relative;
+  border-radius: var(--br-3xs);
+  width: 300px;
+  height: 250px;
+  background-image: url(/public/frame-32@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.frame-group {
+  margin: 0;
+  position: absolute;
+  top: calc(50% - 125px);
+  left: calc(50% - 170px);
+  width: 966px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-yellow);
+  font-family: var(--font-poppins);
+}
+.carousel2 {
+  position: absolute;
+  top: 197px;
+  left: calc(50% - 160px);
+  width: 340px;
+  height: 250px;
+  overflow-x: auto;
+}

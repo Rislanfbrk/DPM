@@ -1,0 +1,43 @@
+.vuesaxoutlinenotification-icon1 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.notif-text,
+.time1 {
+  position: absolute;
+  left: 0;
+}
+.notif-text {
+  top: 0;
+  line-height: 100%;
+  display: flex;
+  align-items: center;
+  width: 245px;
+}
+.time1 {
+  top: 30px;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray-100);
+}
+.notif-text-parent {
+  position: relative;
+  width: 245px;
+  height: 51px;
+}
+.notif-item {
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  width: 320px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-base);
+  box-sizing: border-box;
+  gap: var(--gap-base);
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--reg);
+  font-family: var(--font-poppins);
+}

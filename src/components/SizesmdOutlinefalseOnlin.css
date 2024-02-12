@@ -1,0 +1,13 @@
+.avatar-icon1 {
+  position: relative;
+  border-radius: var(--br-31xl);
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.sizesmd-outlinefalse-onlin {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}

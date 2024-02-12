@@ -1,0 +1,77 @@
+.group-child36,
+.group-child37 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 360px;
+  height: 97px;
+}
+.group-child37 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-200);
+  width: 150px;
+  height: 47px;
+}
+.map-view1 {
+  position: absolute;
+  top: calc(50% - 10.5px);
+  left: 44px;
+  line-height: 100%;
+}
+.vuesaxoutlinemap-icon1 {
+  position: absolute;
+  top: calc(50% - 12.5px);
+  left: 11px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.group-child38,
+.rectangle-parent37 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 150px;
+  height: 47px;
+}
+.rectangle-parent37 {
+  cursor: pointer;
+}
+.group-child38 {
+  border-radius: var(--br-3xs);
+  background-color: var(--blue);
+}
+.rent3 {
+  position: absolute;
+  top: calc(50% - 10.5px);
+  left: calc(50% - 22px);
+  line-height: 100%;
+}
+.rectangle-parent38 {
+  position: absolute;
+  top: 0;
+  left: 170px;
+  width: 150px;
+  height: 47px;
+  cursor: pointer;
+  color: var(--white);
+}
+.group-parent8,
+.group-section {
+  position: absolute;
+  top: 25px;
+  left: 20px;
+  width: 320px;
+  height: 47px;
+}
+.group-section {
+  top: 703px;
+  left: 0;
+  width: 360px;
+  height: 97px;
+  text-align: left;
+  font-size: var(--headline-h5-size);
+  color: var(--black);
+  font-family: var(--font-poppins);
+}

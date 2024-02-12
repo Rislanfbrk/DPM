@@ -1,0 +1,46 @@
+.vuesaxbulkandroid-icon1 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.chatbot {
+  top: 0;
+}
+.chatbot,
+.message-here,
+.time {
+  position: absolute;
+  left: 0;
+  line-height: 100%;
+}
+.message-here {
+  top: 26px;
+  font-size: var(--font-size-mid);
+  display: flex;
+  align-items: center;
+  width: 256px;
+}
+.time {
+  top: 52px;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray-300);
+}
+.chatbot-parent {
+  position: relative;
+  width: 256px;
+  height: 66px;
+}
+.message-item {
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-base) var(--padding-xs);
+  gap: var(--gap-base);
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--reg);
+  font-family: var(--font-poppins);
+}

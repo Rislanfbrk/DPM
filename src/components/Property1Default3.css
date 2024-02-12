@@ -1,0 +1,28 @@
+.mdiuser-circle-outline-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.name {
+  position: relative;
+}
+.property-1default3 {
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  border: 2px solid var(--reg);
+  box-sizing: border-box;
+  width: 320px;
+  height: 58px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) var(--padding-xl);
+  gap: var(--gap-3xs);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--reg);
+  font-family: var(--font-inter);
+}

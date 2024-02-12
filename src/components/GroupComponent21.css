@@ -1,0 +1,83 @@
+.group-child39,
+.group-child40 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 360px;
+  height: 97px;
+}
+.group-child40 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-200);
+  width: 150px;
+  height: 47px;
+}
+.map-view2 {
+  position: absolute;
+  top: calc(50% - 10.5px);
+  left: 44px;
+  line-height: 100%;
+}
+.vuesaxoutlinemap-icon2 {
+  position: absolute;
+  top: calc(50% - 12.5px);
+  left: 11px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.group-child41,
+.rectangle-parent40 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 150px;
+  height: 47px;
+}
+.rectangle-parent40 {
+  cursor: pointer;
+}
+.group-child41 {
+  border-radius: var(--br-3xs);
+  background-color: var(--blue);
+}
+.rent4 {
+  position: absolute;
+  top: calc(50% - 10.5px);
+  left: calc(50% - 22px);
+  font-size: var(--headline-h5-size);
+  line-height: 100%;
+  font-family: var(--font-poppins);
+  color: var(--white);
+  text-align: left;
+}
+.rectangle-parent41 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 170px;
+  width: 150px;
+  height: 47px;
+}
+.group-parent9 {
+  position: absolute;
+  top: 25px;
+  left: 20px;
+  width: 320px;
+  height: 47px;
+}
+.rectangle-parent39 {
+  position: absolute;
+  top: 703px;
+  left: 0;
+  width: 360px;
+  height: 97px;
+  text-align: left;
+  font-size: var(--headline-h5-size);
+  color: var(--black);
+  font-family: var(--font-poppins);
+}

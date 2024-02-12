@@ -1,0 +1,166 @@
+.component-child1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+}
+.gov-infantado-st1,
+.location1 {
+  position: absolute;
+  line-height: 100%;
+}
+.location1 {
+  top: 0;
+  left: 0.08%;
+  font-weight: 600;
+}
+.gov-infantado-st1 {
+  top: 10px;
+  left: 11px;
+  display: flex;
+  align-items: center;
+  width: 223px;
+}
+.gov-infantado-st-calapan-p-wrapper {
+  position: absolute;
+  top: calc(50% - 10.5px);
+  left: calc(50% - 126.4px);
+  border-radius: var(--br-8xs);
+  background-color: var(--color-whitesmoke-100);
+  width: 252.8px;
+  height: 46px;
+  font-size: var(--font-size-smi);
+}
+.location-group {
+  position: absolute;
+  height: 24.23%;
+  width: 79%;
+  top: 12.97%;
+  right: 10.69%;
+  bottom: 62.8%;
+  left: 10.31%;
+}
+.range-slider-item,
+.range-slider2 {
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--primary-500);
+  width: 55px;
+  height: 10px;
+}
+.range-slider2 {
+  position: absolute;
+  height: 41.67%;
+  width: 93.75%;
+  top: 29.17%;
+  right: 0;
+  bottom: 29.17%;
+  left: 6.25%;
+  background-color: var(--primary-50);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.group-child33 {
+  position: absolute;
+  height: 100%;
+  width: 9.49%;
+  top: 0;
+  right: 90.51%;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--primary-500);
+}
+.bullet-child1 {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--grey);
+  border: 8px solid var(--blue);
+  box-sizing: border-box;
+  width: 24px;
+  height: 24px;
+}
+.bullet4 {
+  position: absolute;
+  height: 100%;
+  width: 7.52%;
+  top: 0;
+  right: 67.64%;
+  bottom: 0;
+  left: 24.84%;
+  border-radius: var(--br-5xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.range-slider-container {
+  height: 35.82%;
+  width: 100%;
+  top: 64.18%;
+  right: 0;
+  bottom: 0;
+}
+.group-child34,
+.radius,
+.range-slider-container {
+  position: absolute;
+  left: 0;
+}
+.radius {
+  top: 25.37%;
+  line-height: 100%;
+  font-weight: 600;
+}
+.group-child34 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-whitesmoke-100);
+}
+.kms1 {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: 24.05%;
+}
+.rectangle-parent36 {
+  position: absolute;
+  height: 59.7%;
+  width: 25%;
+  top: 0;
+  right: 0;
+  bottom: 40.3%;
+  left: 75%;
+  text-align: center;
+  font-size: var(--font-size-xs);
+}
+.group-parent6 {
+  position: absolute;
+  height: 22.87%;
+  width: 79%;
+  top: 44.03%;
+  right: 10.62%;
+  bottom: 33.11%;
+  left: 10.38%;
+}
+.rectangle-parent35 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 320px;
+  height: 293px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--black);
+  font-family: var(--font-poppins);
+}

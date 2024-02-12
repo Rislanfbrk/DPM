@@ -1,0 +1,99 @@
+.filtered-results {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 100%;
+  font-weight: 500;
+  font-family: inherit;
+}
+.vuesaxbulklocation-icon1 {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: 0;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.gov-infantado-st2 {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: 33px;
+  line-height: 100%;
+  display: flex;
+  align-items: center;
+  width: 258px;
+  height: 18px;
+}
+.vuesaxbulklocation-parent {
+  position: relative;
+  width: 291px;
+  height: 24px;
+}
+.vuesaxbulkdiscover-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.kms2 {
+  position: absolute;
+  top: calc(50% - 6px);
+  left: 30px;
+  line-height: 100%;
+}
+.vuesaxbulkdiscover-parent {
+  position: absolute;
+  top: 0;
+  left: 194px;
+  width: 66px;
+  height: 24px;
+}
+.php-000- {
+  position: absolute;
+  top: calc(50% - 6px);
+  left: 33px;
+  line-height: 100%;
+}
+.vuesaxoutlinemoney-4-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 164px;
+  height: 24px;
+}
+.group-parent10 {
+  position: relative;
+  width: 260px;
+  height: 24px;
+}
+.vuesaxoutlinestar-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 77px;
+  height: 24px;
+}
+.group-wrapper {
+  position: relative;
+  width: 77px;
+  height: 24px;
+}
+.filtered-results-parent {
+  position: absolute;
+  top: 138px;
+  left: calc(50% - 163px);
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-mid-5);
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--black);
+  font-family: var(--font-poppins);
+}

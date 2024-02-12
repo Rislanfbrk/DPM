@@ -1,0 +1,45 @@
+.how-to-make-your-vscode-sparkl-icon {
+  position: undefined;
+  width: 63px;
+  height: 88px;
+  object-fit: cover;
+  margin-left: 9px;
+}
+.new-listings {
+  position: undefined;
+  font-size: inherit;
+  line-height: 100%;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  height: 26px;
+  margin: 0 0 0 20px;
+}
+.frame1,
+.frame2 {
+  overflow: hidden;
+  display: flex;
+  justify-content: flex-start;
+}
+.frame2 {
+  width: 183px;
+  height: 88px;
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-12xl) var(--padding-92xl) var(--padding-12xl) 0;
+  box-sizing: border-box;
+}
+.frame1 {
+  position: absolute;
+  top: 451px;
+  left: 0;
+  width: 360px;
+  height: 229px;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--reg);
+  font-family: var(--font-poppins);
+}

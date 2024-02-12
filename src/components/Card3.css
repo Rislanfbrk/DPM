@@ -1,0 +1,55 @@
+.card-header2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 320px;
+  height: 77px;
+  overflow: hidden;
+}
+.hope-apartment,
+.php-6500month {
+  position: absolute;
+  left: 9px;
+  letter-spacing: 0.5px;
+  line-height: 23px;
+}
+.hope-apartment {
+  top: 5px;
+  display: inline-block;
+  width: 270px;
+}
+.php-6500month {
+  top: 35px;
+  font-size: var(--headline-h5-size);
+  color: var(--muted-color);
+}
+.card-footer2 {
+  top: 294px;
+  left: 0;
+  height: 73px;
+  overflow: hidden;
+}
+.card-footer2,
+.card3,
+.image-5-icon2 {
+  position: absolute;
+  width: 320px;
+}
+.image-5-icon2 {
+  top: 87px;
+  left: -1px;
+  height: 207px;
+  object-fit: cover;
+}
+.card3 {
+  top: 546px;
+  left: 20px;
+  border-radius: var(--br-xl);
+  background-color: var(--white);
+  height: 367px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--reg);
+  font-family: var(--font-poppins);
+}

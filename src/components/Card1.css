@@ -1,0 +1,68 @@
+.avatar-icon5 {
+  position: absolute;
+  top: 9px;
+  left: 15px;
+  border-radius: var(--br-31xl);
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.card-header1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 320px;
+  height: 77px;
+  overflow: hidden;
+}
+.calapan-dormitory,
+.php-3500month {
+  position: absolute;
+  left: 9px;
+  letter-spacing: 0.5px;
+  line-height: 23px;
+}
+.calapan-dormitory {
+  margin: 0;
+  top: 5px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 270px;
+}
+.php-3500month {
+  top: 35px;
+  font-size: var(--headline-h5-size);
+  color: var(--muted-color);
+}
+.card-footer1 {
+  top: 294px;
+  left: 0;
+  height: 73px;
+  overflow: hidden;
+}
+.card-footer1,
+.card2,
+.image-5-icon1 {
+  position: absolute;
+  width: 320px;
+}
+.image-5-icon1 {
+  top: 87px;
+  left: -1px;
+  height: 207px;
+  object-fit: cover;
+}
+.card2 {
+  top: 577px;
+  left: 21px;
+  border-radius: var(--br-xl);
+  background-color: var(--white);
+  height: 367px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--reg);
+  font-family: var(--font-poppins);
+}

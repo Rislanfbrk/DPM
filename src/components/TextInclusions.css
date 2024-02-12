@@ -1,0 +1,35 @@
+.vuesaxoutlinetick-circle-icon1 {
+  position: absolute;
+  height: 77.78%;
+  width: 25.93%;
+  top: 11.11%;
+  right: 74.07%;
+  bottom: 11.11%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.text {
+  position: absolute;
+  top: 0;
+  left: 38.89%;
+  line-height: 100%;
+}
+.vuesaxoutlinetick-circle-parent {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.text-inclusions {
+  width: 54px;
+  height: 18px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--reg);
+  font-family: var(--font-poppins);
+}

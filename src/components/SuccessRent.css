@@ -1,0 +1,43 @@
+.vector-icon {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.success,
+.wait-for-the {
+  position: absolute;
+  line-height: 100%;
+}
+.wait-for-the {
+  top: calc(50% + 10px);
+  left: calc(50% - 113.5px);
+  font-weight: 500;
+}
+.success {
+  top: calc(50% - 28px);
+  left: 1px;
+  font-size: var(--font-size-11xl);
+}
+.wait-for-the-confirmation-parent {
+  position: relative;
+  width: 227px;
+  height: 56px;
+}
+.success-rent {
+  border-radius: var(--br-3xs);
+  background-color: #c9eed9;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 40px 21px;
+  box-sizing: border-box;
+  gap: 21px;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-seagreen);
+  font-family: var(--font-poppins);
+}
